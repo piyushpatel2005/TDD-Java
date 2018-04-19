@@ -13,7 +13,7 @@ public class ValidateISBN {
 		} else if (isbn.length() == SHORT_ISBN_LENGTH) {
 			return isThisAValidShortISBN(isbn);
 		} else
-			throw new NumberFormatException("Nine digit isbn not allowed.");
+			throw new NumberFormatException("ISBN number must be 10 or 13 digits long.");
 
 	}
 
