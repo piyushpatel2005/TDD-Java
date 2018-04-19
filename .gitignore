@@ -1,0 +1,15 @@
+RemoteSystemsTempFiles
+.recommenders
+.metadata
+**/bin
+**/tmp
+*.tmp
+*.bak
+*.swp
+**/.settings
+**/.loadpath
+**/classpath
+**/.project
+**/target
+**/.worksheet
+**/.buildpath
