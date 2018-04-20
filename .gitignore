@@ -8,7 +8,7 @@ RemoteSystemsTempFiles
 *.swp
 **/.settings
 **/.loadpath
-**/classpath
+**/.classpath
 **/.project
 **/target
 **/.worksheet
